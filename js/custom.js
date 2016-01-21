@@ -211,6 +211,7 @@ jQuery(function($){
         scrollTop: $("#footer").offset().top},
         'slow');
 	});
+	$('.modal-trigger').leanModal();
 
 	
 });
